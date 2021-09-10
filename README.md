@@ -1,2 +1,2 @@
 # helloworld
-Record some ideas
+Record some ideas and some thoughts
